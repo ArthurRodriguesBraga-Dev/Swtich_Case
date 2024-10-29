@@ -1,0 +1,15 @@
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\bin\Debug\net6.0\Exercicio1SCAtiv.exe
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\bin\Debug\net6.0\Exercicio1SCAtiv.deps.json
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\bin\Debug\net6.0\Exercicio1SCAtiv.runtimeconfig.json
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\bin\Debug\net6.0\Exercicio1SCAtiv.dll
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\bin\Debug\net6.0\Exercicio1SCAtiv.pdb
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.csproj.AssemblyReference.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.AssemblyInfoInputs.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.AssemblyInfo.cs
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.csproj.CoreCompileInputs.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.dll
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\refint\Exercicio1SCAtiv.dll
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.pdb
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\Exercicio1SCAtiv.genruntimeconfig.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Switch Case\Exercicio1SCAtiv\Exercicio1SCAtiv\obj\Debug\net6.0\ref\Exercicio1SCAtiv.dll
